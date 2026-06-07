@@ -22,7 +22,7 @@ logging.basicConfig(
 log = logging.getLogger("TVArena")
 
 # ─── Константы ────────────────────────────────────────────────────────────────
-BASE_URL      = "https://tv.l2arena.fun"
+BASE_URL      = "https://secure-272717.tatnet.app/tv.l2arena.fun"
 PLAYLIST_FILE = "playlist.m3u"
 PAGE_TIMEOUT  = 30_000   # мс (Playwright)
 WAIT_AFTER    = 3        # сек ожидания после загрузки (JS-рендеринг)
